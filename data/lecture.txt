@@ -1045,7 +1045,7 @@
 /ev/pro/container2/vertex/top/left/x -2.32
 /ev/pic/background/flip/vertical 0
 /ev/pic/background/flip/horizontal 0
-/ev/pic/background/filename /home/marian/Desktop/evt_lecture_goal/media/container.jpg
+/ev/pic/background/filename ../media/container.jpg
 /ev/pic/background/state 1
 /ev/mouse/texture/sensitivity 50
 /ev/mouse/select_radius 0.2
@@ -2100,7 +2100,7 @@
 /ev/pro/container2/vertex/top/left/x -2.32
 /ev/pic/background/flip/vertical 0
 /ev/pic/background/flip/horizontal 0
-/ev/pic/background/filename /home/marian/Desktop/evt_lecture_goal/media/container.jpg
+/ev/pic/background/filename ../media/container.jpg
 /ev/pic/background/state 1
 /ev/mouse/texture/sensitivity 50
 /ev/mouse/select_radius 0.2
@@ -3155,7 +3155,7 @@
 /ev/pro/container2/vertex/top/left/x -2.32
 /ev/pic/background/flip/vertical 0
 /ev/pic/background/flip/horizontal 0
-/ev/pic/background/filename /home/marian/Desktop/evt_lecture_goal/media/container.jpg
+/ev/pic/background/filename ../media/container.jpg
 /ev/pic/background/state 1
 /ev/mouse/texture/sensitivity 50
 /ev/mouse/select_radius 0.2
